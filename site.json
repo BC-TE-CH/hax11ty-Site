@@ -1,0 +1,124 @@
+{
+  "id": "#dee9682b-6987-cd1c-927e-c2c77d1c96b6",
+  "title": "HAX11TY doc site",
+  "author": "EdTechJoker",
+  "description": "HAX + 11ty = bliss",
+  "license": "by-sa",
+  "metadata": {
+    "author": {
+      "image": "files/headshot511743.1799999904.jpg",
+      "name": "EdTechJoker",
+      "email": "hax@psu.edu",
+      "socialLink": "https://twitter.com/elmsln"
+    },
+    "site": {
+      "name": "elmsln",
+      "created": 1601767851561,
+      "updated": 1601767851561,
+      "git": {
+        "autoPush": false,
+        "branch": "master",
+        "staticBranch": "gh-pages",
+        "vendor": "github",
+        "publicRepoUrl": "https://github.com/elmsln/hax11ty/blob/master/src/",
+        "url": "git@github.com:elmsln/hax11ty.git"
+      },
+      "version": "1.2.9-11ty",
+      "domain": "https://localhost:8000",
+      "logo": "assets/images/photo-1497493292307-31c376b6e479.jpeg",
+      "static": {
+        "cdn": "build",
+        "offline": false
+      },
+      "settings": {
+        "pathauto": false,
+        "publishPagesOn": false,
+        "forceUpgrade": true,
+        "sw": false
+      }
+    },
+    "theme": {
+      "element": "clean-one",
+      "variables": {
+        "image": "assets/banner.jpg",
+        "hexCode": "#55FF55",
+        "cssVariable": "--simple-colors-default-theme-green-7",
+        "logo": "lrn:network"
+      }
+    }
+  },
+  "items": [
+    {
+      "id": "--content-1_about-md",
+      "indent": 0,
+      "location": "./pages/1_about.md",
+      "slug": "about",
+      "order": 0,
+      "title": "About",
+      "description": "About",
+      "parent": null,
+      "metadata": {
+        "created": 1601767820,
+        "updated": 1601767820,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "About",
+        "slug": "about"
+      }
+    },
+    {
+      "id": "--content-2_install-md",
+      "indent": 0,
+      "location": "./pages/2_install.md",
+      "slug": "install",
+      "order": 1,
+      "title": "Installation",
+      "description": "Installation",
+      "parent": null,
+      "metadata": {
+        "created": 1601767820,
+        "updated": 1601767820,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Installation",
+        "slug": "install"
+      }
+    },
+    {
+      "id": "--content-3_why-md",
+      "indent": 0,
+      "location": "./pages/3_why.md",
+      "slug": "why",
+      "order": 2,
+      "title": "Why HAX11ty",
+      "description": "Why HAX11ty",
+      "parent": null,
+      "metadata": {
+        "created": 1601767820,
+        "updated": 1601767820,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Why HAX11ty",
+        "slug": "why"
+      }
+    }
+  ]
+}
