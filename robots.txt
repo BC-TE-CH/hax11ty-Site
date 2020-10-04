@@ -1,4 +1,4 @@
-Sitemap: https://elmsln.github.io/hax11ty/sitemap.xml
+Sitemap: https://bc-te-ch.github.io/hax11ty-Site/sitemap.xml
 User-agent: *
 Crawl-delay: 10
 # CSS, JS, Images

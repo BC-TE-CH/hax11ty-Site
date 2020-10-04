@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>HAX11TY doc site</title>
+  <title>HAX11TY example site</title>
   <subtitle>HAX + 11ty = bliss</subtitle>
-  <link href="https://elmsln.github.io/hax11ty/rss.xml" rel="self"/>
-  <link href="https://elmsln.github.io/hax11ty"/>
-  <updated>2020-10-04T00:28:49.055+00:00</updated>
-  <id>https://elmsln.github.io/hax11ty</id>
+  <link href="https://bc-te-ch.github.io/hax11ty-Site/rss.xml" rel="self"/>
+  <link href="https://bc-te-ch.github.io/hax11ty-Site"/>
+  <updated>2020-10-04T00:50:16.305+00:00</updated>
+  <id>https://bc-te-ch.github.io/hax11ty-Site</id>
   <author>
-    <name>EdTechJoker</name>
-    <email>hax@psu.edu
+    <name>BC-TE-CH</name>
+    <email>
   </author>
   
   <entry>
     <title>About</title>
-    <link href="https://elmsln.github.io/hax11ty/content/1_about/"/>
-    <updated>2020-10-04T00:28:49.055+00:00</updated>
-    <id>https://elmsln.github.io/hax11ty/content/1_about/</id>
+    <link href="https://bc-te-ch.github.io/hax11ty-Site/content/1_about/"/>
+    <updated>2020-10-04T00:50:16.305+00:00</updated>
+    <id>https://bc-te-ch.github.io/hax11ty-Site/content/1_about/</id>
     <content type="html">&lt;p&gt;HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:
 &lt;ul&gt;
   &lt;li&gt;User edits via HAX (future) or modifies files locally&lt;/li&gt;
@@ -28,9 +28,9 @@
   
   <entry>
     <title>Installation</title>
-    <link href="https://elmsln.github.io/hax11ty/content/2_install/"/>
-    <updated>2020-10-04T00:28:49.055+00:00</updated>
-    <id>https://elmsln.github.io/hax11ty/content/2_install/</id>
+    <link href="https://bc-te-ch.github.io/hax11ty-Site/content/2_install/"/>
+    <updated>2020-10-04T00:50:16.305+00:00</updated>
+    <id>https://bc-te-ch.github.io/hax11ty-Site/content/2_install/</id>
     <content type="html">&lt;code-sample copy-clipboard-button=&quot;&quot;&gt;
 &lt;template&gt;
   git clone https://github.com/elmsln/hax11ty.git
@@ -45,9 +45,9 @@
   
   <entry>
     <title>Why HAX11ty</title>
-    <link href="https://elmsln.github.io/hax11ty/content/3_why/"/>
-    <updated>2020-10-04T00:28:49.055+00:00</updated>
-    <id>https://elmsln.github.io/hax11ty/content/3_why/</id>
+    <link href="https://bc-te-ch.github.io/hax11ty-Site/content/3_why/"/>
+    <updated>2020-10-04T00:50:16.305+00:00</updated>
+    <id>https://bc-te-ch.github.io/hax11ty-Site/content/3_why/</id>
     <content type="html">&lt;p&gt;&lt;ul&gt;
     &lt;li&gt;Power of &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty&lt;/a&gt; for publishing static / high SEO&lt;/li&gt;
     &lt;li&gt;Easier than 11ty, 0 config solution for publishing&lt;/li&gt;

@@ -5,10 +5,10 @@
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "git@github.com:elmsln/hax11ty.git"
+    "url": "git@github.com:bc-te-ch/hax11ty-Site.git"
   },
   "author": {
-    "name": "EdTechJoker"
+    "name": "BC-TE-CH"
   },
   "license": "Apache-2.0",
   "dependencies": {

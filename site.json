@@ -1,27 +1,27 @@
 {
-  "id": "#fa9949bf-67d4-39e3-8e68-1542dc35acd6",
-  "title": "HAX11TY doc site",
-  "author": "EdTechJoker",
+  "id": "#7094f0d4-0042-aedc-9f14-2bd72e2130b3",
+  "title": "HAX11TY example site",
+  "author": "BC-TE-CH",
   "description": "HAX + 11ty = bliss",
   "license": "by-sa",
   "metadata": {
     "author": {
-      "image": "files/headshot511743.1799999904.jpg",
-      "name": "EdTechJoker",
-      "email": "hax@psu.edu",
-      "socialLink": "https://twitter.com/elmsln"
+      "image": "",
+      "name": "BC-TE-CH",
+      "email": "",
+      "socialLink": "https://twitter.com/"
     },
     "site": {
       "name": "elmsln",
-      "created": 1601771361875,
-      "updated": 1601771361875,
+      "created": 1601772643985,
+      "updated": 1601772643985,
       "git": {
         "autoPush": false,
         "branch": "master",
         "staticBranch": "gh-pages",
         "vendor": "github",
-        "publicRepoUrl": "https://github.com/elmsln/hax11ty/blob/master/src/",
-        "url": "git@github.com:elmsln/hax11ty.git"
+        "publicRepoUrl": "https://github.com/bc-te-ch/hax11ty-Site/blob/master/src/",
+        "url": "git@github.com:bc-te-ch/hax11ty-Site.git"
       },
       "version": "1.2.9-11ty",
       "domain": "https://localhost:8000",
@@ -58,8 +58,8 @@
       "description": "About",
       "parent": null,
       "metadata": {
-        "created": 1601771329,
-        "updated": 1601771329,
+        "created": 1601772616,
+        "updated": 1601772616,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "Installation",
       "parent": null,
       "metadata": {
-        "created": 1601771329,
-        "updated": 1601771329,
+        "created": 1601772616,
+        "updated": 1601772616,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Why HAX11ty",
       "parent": null,
       "metadata": {
-        "created": 1601771329,
-        "updated": 1601771329,
+        "created": 1601772616,
+        "updated": 1601772616,
         "readtime": 1,
         "contentDetails": {},
         "files": [],

@@ -1,6 +1,6 @@
 {
-  "name": "HAX11TY doc site",
-  "short_name": "HAX11TY doc site",
+  "name": "HAX11TY example site",
+  "short_name": "HAX11TY example site",
   "description": "HAX + 11ty = bliss",
   "icons": [
     {
@@ -47,12 +47,12 @@
       "density": "4.0"
     }
   ],
-  "scope": "/hax11ty/",
-  "start_url": "/hax11ty/",
+  "scope": "/hax11ty-Site/",
+  "start_url": "/hax11ty-Site/",
   "display": "standalone",
   "theme_color": "#55FF55",
   "background_color": "#55FF55",
-  "url": "https://elmsln.github.io/hax11ty",
+  "url": "https://bc-te-ch.github.io/hax11ty-Site",
   "lang": "en",
   "screenshots": [],
   "orientation": "portrait"
