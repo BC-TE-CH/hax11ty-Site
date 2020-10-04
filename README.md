@@ -3,7 +3,7 @@ This wrapper on 11ty provides conventions to simplify how you build and deploy H
 
 ## Starting the repo usage
 - Clone the repo / use it as a template
-- `yarn install`
+- `yarn install(THIS WORKED!)`
 - `yarn start` to work locally and view changes
 
 ## Adding content / working locally
