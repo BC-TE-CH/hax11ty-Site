@@ -1,5 +1,5 @@
 {
-  "id": "#62b2e07e-84e2-d2f1-9738-0cd05c731054",
+  "id": "#6d4e7a8d-2aec-fc7c-2ba7-ea51b9296658",
   "title": "HAX11TY example site",
   "author": "BC-TE-CH",
   "description": "HAX + 11ty = bliss",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "elmsln",
-      "created": 1601773305467,
-      "updated": 1601773305467,
+      "created": 1601775839365,
+      "updated": 1601775839365,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "About",
       "parent": null,
       "metadata": {
-        "created": 1601773278,
-        "updated": 1601773278,
+        "created": 1601775810,
+        "updated": 1601775810,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -82,8 +82,8 @@
       "description": "Installation",
       "parent": null,
       "metadata": {
-        "created": 1601773278,
-        "updated": 1601773278,
+        "created": 1601775810,
+        "updated": 1601775810,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -106,8 +106,8 @@
       "description": "Why HAX11ty",
       "parent": null,
       "metadata": {
-        "created": 1601773278,
-        "updated": 1601773278,
+        "created": 1601775810,
+        "updated": 1601775810,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
