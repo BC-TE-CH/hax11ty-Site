@@ -39,19 +39,19 @@
 var precacheConfig = [
   [
     "/hax11ty-Site/content/1_about/",
-    "EZD2t2ablzYH3bKP"
+    "XQBvxNpcajNH4zjQ"
   ],
   [
     "/hax11ty-Site/content/2_install/",
-    "EZD2t2ablzYH3bKP"
+    "XQBvxNpcajNH4zjQ"
   ],
   [
     "/hax11ty-Site/content/3_why/",
-    "EZD2t2ablzYH3bKP"
+    "XQBvxNpcajNH4zjQ"
   ],
   [
     "/hax11ty-Site/",
-    "EZD2t2ablzYH3bKP"
+    "XQBvxNpcajNH4zjQ"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
