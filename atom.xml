@@ -3,7 +3,7 @@
   <title>HAX11TY example site</title>
   <link href="https://bc-te-ch.github.io/hax11ty-Site/atom.xml" rel="self" />
   <subtitle>HAX + 11ty = bliss</subtitle>
-  <updated>2020-10-04T00:50:16.305+00:00</updated>
+  <updated>2020-10-04T00:56:55.612+00:00</updated>
   <author>
       <name>BC-TE-CH</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title>About</title>
     <id>https://bc-te-ch.github.io/hax11ty-Site/content/1_about/</id>
-    <updated>2020-10-04T00:50:16.305+00:00</updated>
-    <published>2020-10-04T00:50:16.305+00:00</published>
+    <updated>2020-10-04T00:56:55.612+00:00</updated>
+    <published>2020-10-04T00:56:55.612+00:00</published>
     <summary></summary>
     <link href="https://bc-te-ch.github.io/hax11ty-Site/content/1_about/"/>
     <content type="html">
@@ -29,8 +29,8 @@
   <entry>
     <title>Installation</title>
     <id>https://bc-te-ch.github.io/hax11ty-Site/content/2_install/</id>
-    <updated>2020-10-04T00:50:16.305+00:00</updated>
-    <published>2020-10-04T00:50:16.305+00:00</published>
+    <updated>2020-10-04T00:56:55.612+00:00</updated>
+    <published>2020-10-04T00:56:55.612+00:00</published>
     <summary></summary>
     <link href="https://bc-te-ch.github.io/hax11ty-Site/content/2_install/"/>
     <content type="html">
@@ -49,8 +49,8 @@
   <entry>
     <title>Why HAX11ty</title>
     <id>https://bc-te-ch.github.io/hax11ty-Site/content/3_why/</id>
-    <updated>2020-10-04T00:50:16.305+00:00</updated>
-    <published>2020-10-04T00:50:16.305+00:00</published>
+    <updated>2020-10-04T00:56:55.612+00:00</updated>
+    <published>2020-10-04T00:56:55.612+00:00</published>
     <summary></summary>
     <link href="https://bc-te-ch.github.io/hax11ty-Site/content/3_why/"/>
     <content type="html">
