@@ -3,7 +3,7 @@
   <title>HAX11TY doc site</title>
   <link href="https://elmsln.github.io/hax11ty/atom.xml" rel="self" />
   <subtitle>HAX + 11ty = bliss</subtitle>
-  <updated>2020-10-04T00:18:07.727+00:00</updated>
+  <updated>2020-10-04T00:28:49.055+00:00</updated>
   <author>
       <name>EdTechJoker</name>
   </author>
@@ -11,8 +11,8 @@
   <entry>
     <title>About</title>
     <id>https://elmsln.github.io/hax11ty/content/1_about/</id>
-    <updated>2020-10-04T00:18:07.727+00:00</updated>
-    <published>2020-10-04T00:18:07.727+00:00</published>
+    <updated>2020-10-04T00:28:49.055+00:00</updated>
+    <published>2020-10-04T00:28:49.055+00:00</published>
     <summary></summary>
     <link href="https://elmsln.github.io/hax11ty/content/1_about/"/>
     <content type="html">
@@ -20,7 +20,7 @@
 &lt;ul&gt;
   &lt;li&gt;User edits via HAX (future) or modifies files locally&lt;/li&gt;
   &lt;li&gt;hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen&lt;/li&gt;
-  &lt;li&gt;this is (lksadjflkj) compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version&lt;/li&gt;
+  &lt;li&gt;this is (lksaflkj) compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 
@@ -29,8 +29,8 @@
   <entry>
     <title>Installation</title>
     <id>https://elmsln.github.io/hax11ty/content/2_install/</id>
-    <updated>2020-10-04T00:18:07.727+00:00</updated>
-    <published>2020-10-04T00:18:07.727+00:00</published>
+    <updated>2020-10-04T00:28:49.055+00:00</updated>
+    <published>2020-10-04T00:28:49.055+00:00</published>
     <summary></summary>
     <link href="https://elmsln.github.io/hax11ty/content/2_install/"/>
     <content type="html">
@@ -49,8 +49,8 @@
   <entry>
     <title>Why HAX11ty</title>
     <id>https://elmsln.github.io/hax11ty/content/3_why/</id>
-    <updated>2020-10-04T00:18:07.727+00:00</updated>
-    <published>2020-10-04T00:18:07.727+00:00</published>
+    <updated>2020-10-04T00:28:49.055+00:00</updated>
+    <published>2020-10-04T00:28:49.055+00:00</published>
     <summary></summary>
     <link href="https://elmsln.github.io/hax11ty/content/3_why/"/>
     <content type="html">
