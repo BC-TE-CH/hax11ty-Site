@@ -5,10 +5,10 @@ module.exports = () => {
     // will most likley want to change designated
     // github organization / username
     // github.com/WHATEVER
-    var gitOrg = "elmsln";
+    var gitOrg = "bc-te-ch";
     // project name
     // github.com/elmsln/WHATEVER - hax11ty here implies building against the repo itself to produce it's own docs :)
-    var gitProject = "hax11ty";
+    var gitProject = "hax11ty-Site";
     // URL, default for local testing
     var url = "https://localhost:8000";
     // CDN for requesting the location of the build directory
@@ -48,14 +48,14 @@ module.exports = () => {
         // folder / machine name to represent your site
         siteMachineName: "elmsln",
         // Your name as referenced as the author in files
-        siteAuthorName: "EdTechJoker",
+        siteAuthorName: "BC-TE-CH",
         // email address, optional
-        siteAuthorEmail: "hax@psu.edu",
+        siteAuthorEmail: "",
         // an image of you, could be in the local files directory
         // this is used in some themes
-        siteAuthorImage: "files/headshot511743.1799999904.jpg",
+        siteAuthorImage: "",
         // visual name of your site
-        siteName: "HAX11TY doc site",
+        siteName: "HAX11TY example site",
         // CC license, see https://creativecommons.org/licenses/ for a list
         siteLicense: "by-sa",
         // short description of the site for SEO
@@ -75,7 +75,7 @@ module.exports = () => {
         // general theme color
         themeColor: "green",
         // optional twitter handle
-        twitterName: "elmsln",
+        twitterName: "",
         // git configuration settings. This stuff is relatively specific to HAXcms
         // so set these things to your gitOrg / project from above as needed
         git: {
