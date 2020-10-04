@@ -1,5 +1,5 @@
 {
-  "id": "#4bc4e3af-5a0d-920d-f02b-3dc9e9bc5ea3",
+  "id": "#2889fdd1-b4a4-0bf7-864c-30fff0fc6965",
   "title": "HAX11TY example site",
   "author": "BC-TE-CH",
   "description": "HAX + 11ty = bliss",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "elmsln",
-      "created": 1601783608070,
-      "updated": 1601783608070,
+      "created": 1601783900927,
+      "updated": 1601783900927,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,12 +58,12 @@
       "description": "About",
       "parent": null,
       "metadata": {
-        "created": 1601783575,
-        "updated": 1601783575,
+        "created": 1601783877,
+        "updated": 1601783877,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
-        "haxcmsServiceWorker": false,
+        "haxcmsServiceWorker": true,
         "tags": [
           "content"
         ],
@@ -73,51 +73,51 @@
       }
     },
     {
-      "id": "--content-2_install-md",
-      "indent": 0,
-      "location": "./pages/2_install.md",
-      "slug": "install",
-      "order": 1,
-      "title": "Installation",
-      "description": "Installation",
-      "parent": null,
-      "metadata": {
-        "created": 1601783575,
-        "updated": 1601783575,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": false,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Installation",
-        "slug": "install"
-      }
-    },
-    {
       "id": "--content-3_why-md",
       "indent": 0,
       "location": "./pages/3_why.md",
       "slug": "why",
-      "order": 2,
+      "order": 1,
       "title": "Why HAX11ty",
       "description": "Why HAX11ty",
       "parent": null,
       "metadata": {
-        "created": 1601783575,
-        "updated": 1601783575,
+        "created": 1601783877,
+        "updated": 1601783877,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
-        "haxcmsServiceWorker": false,
+        "haxcmsServiceWorker": true,
         "tags": [
           "content"
         ],
         "layout": "content.liquid",
         "title": "Why HAX11ty",
         "slug": "why"
+      }
+    },
+    {
+      "id": "--content-2_install-md",
+      "indent": 0,
+      "location": "./pages/2_install.md",
+      "slug": "install",
+      "order": 2,
+      "title": "Installation",
+      "description": "Installation",
+      "parent": null,
+      "metadata": {
+        "created": 1601783877,
+        "updated": 1601783877,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Installation",
+        "slug": "install"
       }
     }
   ]
