@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HAX11TY example site</title>
+  <link href="https://bc-te-ch.github.io/hax11ty-Site/atom.xml" rel="self" />
+  <subtitle>HAX + 11ty = bliss</subtitle>
+  <updated>2020-10-04T03:56:01.630+00:00</updated>
+  <author>
+      <name>BC-TE-CH</name>
+  </author>
+  <id>https://bc-te-ch.github.io/hax11ty-Site/atom.xml</id>
+  <entry>
+    <title>About</title>
+    <id>https://bc-te-ch.github.io/hax11ty-Site/content/1_about/</id>
+    <updated>2020-10-04T03:56:01.630+00:00</updated>
+    <published>2020-10-04T03:56:01.630+00:00</published>
+    <summary></summary>
+    <link href="https://bc-te-ch.github.io/hax11ty-Site/content/1_about/"/>
+    <content type="html">
+      &lt;p&gt;HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way (VERY INTERESTING):
+&lt;ul&gt;
+  &lt;li&gt;User edits via HAX (future) or modifies files locally&lt;/li&gt;
+  &lt;li&gt;hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen&lt;/li&gt;
+  &lt;li&gt;this is (lksaflkj) compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+    </content>
+  </entry>
+  <entry>
+    <title>Installation</title>
+    <id>https://bc-te-ch.github.io/hax11ty-Site/content/2_install/</id>
+    <updated>2020-10-04T03:56:01.630+00:00</updated>
+    <published>2020-10-04T03:56:01.630+00:00</published>
+    <summary></summary>
+    <link href="https://bc-te-ch.github.io/hax11ty-Site/content/2_install/"/>
+    <content type="html">
+      &lt;code-sample copy-clipboard-button&gt;
+&lt;template&gt;
+  git clone https://github.com/elmsln/hax11ty.git
+  cd hax11ty
+  yarn install
+  yarn start
+&lt;/template&gt;
+&lt;/code-sample&gt;
+&lt;p&gt;This is the fastest way to get up and running. If you instead want to build new sites with this and push them back up to gh-pages rapidly, start by &lt;a href=&quot;https://github.com/elmsln/hax11ty/generate&quot;&gt;using this repo as a template&lt;/a&gt;. This will copy the github actions workflows as well so all you need to do is change our repo in the git clone above to yours in order to start on what will easily become a live website!&lt;/p&gt;
+
+    </content>
+  </entry>
+  <entry>
+    <title>Why HAX11ty</title>
+    <id>https://bc-te-ch.github.io/hax11ty-Site/content/3_why/</id>
+    <updated>2020-10-04T03:56:01.630+00:00</updated>
+    <published>2020-10-04T03:56:01.630+00:00</published>
+    <summary></summary>
+    <link href="https://bc-te-ch.github.io/hax11ty-Site/content/3_why/"/>
+    <content type="html">
+      &lt;p&gt;&lt;ul&gt;
+    &lt;li&gt;Power of &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty&lt;/a&gt; for publishing static / high SEO&lt;/li&gt;
+    &lt;li&gt;Easier than 11ty, 0 config solution for publishing&lt;/li&gt;
+    &lt;li&gt;Power of HAXcms for rocket fast PWA in a forever format&lt;/li&gt;
+    &lt;li&gt;Extendable via web components&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://haxtheweb.org&quot;&gt;HAX&lt;/a&gt; as web editor to skip markdown&lt;/li&gt;
+    &lt;li&gt;Easy github pages based publishing workflow&lt;/li&gt;
+    &lt;li&gt;All files requiring change are in &lt;code&gt;src/&lt;/code&gt; directory&lt;/li&gt;
+    &lt;li&gt;Output can plug into &lt;a href=&quot;https://github.com/elmsln/haxcms&quot;&gt;HAXcms SaaS&lt;/a&gt; and &lt;a href=&quot;https://github.com/elmsln/haxiam&quot;&gt;HAXcms PaaS&lt;/a&gt; solutions&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;h3&gt;Performance&lt;/h3&gt;
+&lt;p&gt;High lighthouse scores are achieved with certain constraints that will keep it from hitting max possible scores:
+&lt;ul&gt;
+    &lt;li&gt;We keep things unbundled to allow for maximal reuse. This has an initial performance hit in the name of page to page speed.&lt;/li&gt;
+    &lt;li&gt;We do this so that if you put, for example, meme-maker into a page of content, hax11ty will generate the preload statements for that element from the CDN. This is done on a page by page level.&lt;/li&gt;
+    &lt;li&gt;That&#39;s it. All other mettrics we can hit the same scores as any other app!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<pre><code>&lt;url&gt;
+  &lt;loc&gt;https://bc-te-ch.github.io/hax11ty-Site/content/1_about/&lt;/loc&gt;
+  &lt;lastmod&gt;2020-10-04T03:56:01+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+
+&lt;url&gt;
+  &lt;loc&gt;https://bc-te-ch.github.io/hax11ty-Site/content/2_install/&lt;/loc&gt;
+  &lt;lastmod&gt;2020-10-04T03:56:01+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+
+&lt;url&gt;
+  &lt;loc&gt;https://bc-te-ch.github.io/hax11ty-Site/content/3_why/&lt;/loc&gt;
+  &lt;lastmod&gt;2020-10-04T03:56:01+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+</code></pre>
+</urlset>

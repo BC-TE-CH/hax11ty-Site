@@ -1,0 +1,15 @@
+{
+    "title": "HAX11TY example site",
+    "description": "HAX + 11ty = bliss",
+    "type": [
+        "website", "HAXcms"
+    ],
+    "links": {
+        "license": [
+            {
+                "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "title": "Creative Commons: Attribution Share a like"
+            }
+        ]
+    }
+}
