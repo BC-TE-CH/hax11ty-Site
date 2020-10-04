@@ -1,5 +1,5 @@
 {
-  "id": "#a1b72db3-4358-2df5-a3eb-6891658f4cf3",
+  "id": "#4bc4e3af-5a0d-920d-f02b-3dc9e9bc5ea3",
   "title": "HAX11TY example site",
   "author": "BC-TE-CH",
   "description": "HAX + 11ty = bliss",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "elmsln",
-      "created": 1601780028626,
-      "updated": 1601780028626,
+      "created": 1601783608070,
+      "updated": 1601783608070,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,12 +58,12 @@
       "description": "About",
       "parent": null,
       "metadata": {
-        "created": 1601779995,
-        "updated": 1601779995,
+        "created": 1601783575,
+        "updated": 1601783575,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
-        "haxcmsServiceWorker": true,
+        "haxcmsServiceWorker": false,
         "tags": [
           "content"
         ],
@@ -82,12 +82,12 @@
       "description": "Installation",
       "parent": null,
       "metadata": {
-        "created": 1601779995,
-        "updated": 1601779995,
+        "created": 1601783575,
+        "updated": 1601783575,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
-        "haxcmsServiceWorker": true,
+        "haxcmsServiceWorker": false,
         "tags": [
           "content"
         ],
@@ -106,12 +106,12 @@
       "description": "Why HAX11ty",
       "parent": null,
       "metadata": {
-        "created": 1601779995,
-        "updated": 1601779995,
+        "created": 1601783575,
+        "updated": 1601783575,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
-        "haxcmsServiceWorker": true,
+        "haxcmsServiceWorker": false,
         "tags": [
           "content"
         ],
